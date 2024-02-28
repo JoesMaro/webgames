@@ -1,0 +1,20 @@
+.navbar{
+    background-color: aquamarine;
+
+}
+.contenedor{
+
+    background-color: brown;
+    height: 100px;
+    margin: 10px;
+
+}
+.contenedoeFluid{
+    background-color: aquamarine;
+    height: 100px;
+    margin: 10px;
+}
+
+body {
+    background-color: #f0f0f0;
+}
